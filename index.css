@@ -1,0 +1,19 @@
+body{
+  background-color: lightgray;
+  color: black;
+}
+.big-box{
+  margin: 30px;
+}
+.span{
+  font-weight: lighter;
+  font-style: italic;
+}
+button{
+  background-color: grey;
+}
+table{
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
